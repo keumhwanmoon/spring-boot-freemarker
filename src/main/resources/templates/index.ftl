@@ -46,7 +46,7 @@
         <!-- LOGO -->
         <div class="topbar-left">
             <div class="text-center">
-                <a href="/" class="logo"><i class="md md-equalizer"></i> <span>Minton</span> </a>
+                <a href="/" class="logo"><i class="md md-equalizer"></i> <span>${name}</span> </a>
             </div>
         </div>
 
